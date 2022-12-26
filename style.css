@@ -39,3 +39,6 @@ body {
     align-items: center;
 
 }
+.navbar-menu li a:hover {
+    opacity: 1;
+}
