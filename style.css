@@ -57,4 +57,8 @@ body {
 .basket {
     margin-right: 20px;
 }
+a.search:hover {
+   color: black;
+   transition: all 07s ease-in-out;
+}
 
