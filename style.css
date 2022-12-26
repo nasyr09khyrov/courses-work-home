@@ -26,3 +26,16 @@ body {
     padding-right: 50px;
     margin-right: 150px;
 }
+.navbar-menu li a {
+    display: inline-block;
+    color: black;
+    opacity: 0.6;
+    text-decoration: none;
+    padding: 10px;
+    transition: all 0.07s ease-in-out;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
