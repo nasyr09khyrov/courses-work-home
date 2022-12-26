@@ -4,4 +4,6 @@
 body {
     margin: 0;
     background-color: antiquewhite;
+    font-family: 'Space Grotesk', sans-serif;
+    max-width: 1040px;
 }
