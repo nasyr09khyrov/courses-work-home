@@ -61,4 +61,11 @@ a.search:hover {
    color: black;
    transition: all 07s ease-in-out;
 }
+.navbar-brand {
+    font-weight: 700px;
+    font-size: 26px;
+    text-decoration: none;
+    color: black;
+    transition: all 0.07s ease-in-out;
+}
 
