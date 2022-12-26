@@ -42,3 +42,8 @@ body {
 .navbar-menu li a:hover {
     opacity: 1;
 }
+.navbar-wrap {
+    display: flex;
+    flex-flow: row nowrap;
+}
+
