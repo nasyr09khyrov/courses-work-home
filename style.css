@@ -12,3 +12,9 @@ body {
     height: 70px;
     box-shadow: 0 3px 2px  rgb(65, 68, 36);
 }
+.navbar {
+    height: inherit;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
