@@ -21,3 +21,8 @@ body {
 .navbar-menu {
     list-style-type: none;
 }
+.navbar-menu li {
+    display: inline-block;
+    padding-right: 50px;
+    margin-right: 150px;
+}
