@@ -68,4 +68,7 @@ a.search:hover {
     color: black;
     transition: all 0.07s ease-in-out;
 }
+.navbar-brand:hover {
+    color: coral;
+}
 
