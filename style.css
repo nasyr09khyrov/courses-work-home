@@ -7,7 +7,7 @@ body {
     font-family: 'Space Grotesk', sans-serif;
     max-width: 1040px;
 }
-.nav-bar {
+.navbar {
     width: 100%;
     height: 70px;
     box-shadow: 0 3px 2px  rgb(65, 68, 36);
