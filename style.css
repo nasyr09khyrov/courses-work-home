@@ -130,3 +130,10 @@ a.search:hover {
   max-width: 700px;
   font-weight: 100;
 }
+.col-12 a {
+  color: black;
+  background-color: #FFDB5B;
+  border-radius: 100px;
+  margin-left: 50px;
+  
+}
