@@ -115,3 +115,9 @@ a.search:hover {
     flex: 100% 0 0; 
 }
 
+.col-12 { 
+  flex: 100% 0 0; 
+  max-width: 1376px;
+  margin-left: 50px;
+  margin-top: 5px;
+}
