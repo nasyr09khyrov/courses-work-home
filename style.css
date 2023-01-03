@@ -121,3 +121,12 @@ a.search:hover {
   margin-left: 50px;
   margin-top: 5px;
 }
+.col-12 h1 {
+  display: flex;
+  margin-top: -580px;
+  color: white;
+  font-size: 90px;
+  margin-left: 60px;
+  max-width: 700px;
+  font-weight: 100;
+}
