@@ -157,4 +157,45 @@ a.search:hover {
   font-size: 60;
   margin-top: 100px;
 }
+.card {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 
+  margin-left: 400px;
+  margin-top: -265px;
+  text-align: center;
+
+}
+.card img {
+  border: 2px solid black;
+  margin-right: 25px;
+
+
+}
+.card span p {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.card .span1 {
+  text-decoration: line-through;
+}
+.product h1 {
+  margin-left: 60px;
+  font-size: 50;
+  max-width: 200px;
+
+
+}
+.sticky {
+  width: 1700px;
+  height: 2px;
+  background-color: black;
+}
+.product img {
+  margin-left: 0px;
+}
+.indicator {
+  
+}
