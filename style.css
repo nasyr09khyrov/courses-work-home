@@ -118,7 +118,7 @@ a.search:hover {
 .col-12 { 
   flex: 100% 0 0; 
   max-width: 1376px;
-  margin-left: 50px;
+  margin-left: 60px;
   margin-top: 5px;
 }
 .col-12 h1 {
@@ -130,7 +130,7 @@ a.search:hover {
   max-width: 700px;
   font-weight: 100;
 }
-.col-12.button {
+.button {
   color: black;
   background-color: #FFDB5B;
   border-radius: 100px;
@@ -140,7 +140,18 @@ a.search:hover {
   padding-left: 25px;
   padding-top: 10px;
   margin-top: 200px;
+  margin-left: 60px;
 }
-.col-12 .arrow {
 
+.stick {
+  background-color: #F1EBE4;
+  width: 128px;
+  height: 128px;
+  border-radius: 128px;
+  margin-left: 1180px;
+  border: 2px solid black;
+  
+  
 }
+
+
