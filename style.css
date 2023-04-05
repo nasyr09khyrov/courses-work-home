@@ -209,3 +209,15 @@ a.search:hover {
 .rine {
   margin-top: 100px;
 }
+.shop {
+  font-size: 40;
+  color: black;
+  text-decoration: none;
+  margin-top: 100px;
+  margin-left: 50px;
+
+  display: flex;
+  justify-content: left;
+
+  
+}
