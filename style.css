@@ -239,3 +239,6 @@ a.search:hover {
   display: flex;
   justify-content: center;
 }
+.card_image.caps {
+  background-image: url(./coffee.png);
+}
