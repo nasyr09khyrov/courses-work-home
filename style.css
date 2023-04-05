@@ -221,3 +221,21 @@ a.search:hover {
 
   
 }
+.card_image {
+  width: 435px;
+  height: 274px;
+  background-image: url(./flowers.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.card_content {
+  padding: 36px 45px 41px 45px;
+  background-color: rgb(179, 0, 255);
+  font-size: 50;
+  width: 435px;
+  height: 142px;
+  
+  display: flex;
+  justify-content: center;
+}
