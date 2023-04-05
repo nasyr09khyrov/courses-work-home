@@ -113,9 +113,7 @@ a.search:hover {
   .col-12 { 
     flex: 100% 0 0; 
 }
-
-.col-12 { 
-  margin-left: 40px;
+.col-12.background {
   margin-top: 5px;
 }
 .col-12 h1 {
