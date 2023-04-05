@@ -151,7 +151,7 @@ a.search:hover {
   font-size: 60;
   margin-top: 100px;
 }
-.card {
+.card_products {
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -161,18 +161,18 @@ a.search:hover {
   text-align: center;
 
 }
-.card img {
+.card_products img {
   border: 2px solid black;
   margin-right: 25px;
 
 
 }
-.card span p {
+.card_products span p {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.card .span1 {
+.card_products .span1 {
   text-decoration: line-through;
   display: block
 }
