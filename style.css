@@ -253,7 +253,7 @@ a.search:hover {
 }
 .home {
   font-size: 50;
-  margin-left: 200px;
+  margin-left: 160px;
   margin-top: 100px;
 }
 .HomeClay {
@@ -261,4 +261,15 @@ a.search:hover {
   border-top: 2px solid black;
   margin-top: 20px;
   width: 1490px;
+}
+.lorem {
+  margin-left: 160px;
+  display: block;
+  width: 550px;
+  font-size: 20;
+}
+.bild {
+  padding-top: 20px;
+  margin-left: 160px;
+
 }
