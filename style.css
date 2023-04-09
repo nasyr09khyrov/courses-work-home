@@ -271,9 +271,11 @@ a.search:hover {
   font-size: 20;
 }
 .bild {
+  width: 350px;
   display: block;
   padding-top: 30px;
   margin-left: 160px;
+  border-top: 1px solid black;
 
 }
 .paint {
@@ -295,18 +297,4 @@ a.search:hover {
   text-decoration: underline;
   background-color: #fdc600;
   font-size: 15px;
-  animation-duration: 5ms;
-  animation-name: slidein;
-
-  @keyframes slidein {
-    from {
-      margin-left: 100%;
-      width: 300%;
-    }
-
-    to {
-      margin-left: 0%;
-       width: 100%;
-    }
-  }
 }
