@@ -245,3 +245,6 @@ a.search:hover {
 .card_image.plates {
   background-image: url(./rloy.png);
 }
+.card_picture {
+  padding-left: 40px;
+}
