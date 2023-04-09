@@ -258,4 +258,7 @@ a.search:hover {
 }
 .HomeClay {
   background-color: #F1EBE4;
+  border-top: 2px solid black;
+  margin-top: 20px;
+  width: 1490px;
 }
