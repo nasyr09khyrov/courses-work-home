@@ -251,8 +251,5 @@ a.search:hover {
 .paint {
   width: 550px;
   height: 470px;
-
-
-  display: flex;
-  justify-content: right;
+  
 }
