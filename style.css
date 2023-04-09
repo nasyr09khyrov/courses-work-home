@@ -261,6 +261,8 @@ a.search:hover {
   border-top: 2px solid black;
   margin-top: 20px;
   width: 1490px;
+
+  display: block;
 }
 .lorem {
   margin-left: 160px;
@@ -269,7 +271,13 @@ a.search:hover {
   font-size: 20;
 }
 .bild {
+  display: block;
   padding-top: 20px;
   margin-left: 160px;
 
+}
+.paint {
+  float: right;
+  margin-top: -400px;
+  margin-right: 40px;
 }
