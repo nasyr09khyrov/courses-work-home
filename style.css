@@ -248,3 +248,11 @@ a.search:hover {
 .card_picture {
   padding-left: 40px;
 }
+.paint {
+  width: 550px;
+  height: 470px;
+
+
+  display: flex;
+  justify-content: right;
+}
